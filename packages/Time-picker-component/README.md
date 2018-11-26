@@ -5,7 +5,7 @@
 It will allows a user to pick/select the time(hours, minitues, seconds) from the picker. 
 
 ###### Sample Time picker screen:
-![Phase 1](docs/TimePicker.PNG)
+![Phase 1](doc/TimePicker.PNG)
 
 ### Get it running
 
