@@ -1,6 +1,12 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "monorepo_edge_demo",
+  "version": "1.0.3",
+  "private": false,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
   "devDependencies": {
     "lerna": "^3.10.7"
   }
