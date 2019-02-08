@@ -1,6 +1,6 @@
 {
   "name": "monorepo_edge_demo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "workspaces": {
     "packages": [
